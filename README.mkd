@@ -4,13 +4,12 @@ Description: Precision colors for machines and people
 Author: Rui Carmo
 Created:  2011 Apr 07
 Modified: 2011 Apr 16
-
 ---
 
 Solarized Colorscheme for BBEdit and TextWrangler
 =================================================
 
-Developed by [Rui Carmo](http://the.taoofmac.com)
+Developed by [Rui Carmo](http://the.taoofmac.com), contributions by [Michael Josephson](https://github.com/mikej).
 
 If you have come across this colorscheme via the [repository] on 
 github, visit the [Solarized homepage] or visit the main
