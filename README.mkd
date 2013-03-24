@@ -22,9 +22,14 @@ github, visit the [Solarized homepage] or visit the main
 Installation
 ------------
 
-Starting in BBEdit 10.0 and TextWrangler 4.0, you can use the .bbcolors files without using any command-line tools - just place the .bbcolor files here into your `~/Library/Application\ Support/BBEdit/Color\ Schemes/` or `~/Library/Application Support/TextWrangler/Color Schemes` directory.
+Starting in BBEdit 10.0 and TextWrangler 4.0, you can use the .bbcolors files without using any command-line tools.
 
-But if you're a command-line person, just do:
+All you need to do is drop the .bbcolor files into your personal `Library` folder:
+
+* `~/Library/Application Support/BBEdit/Color Schemes/` (for BBEdit) 
+* `~/Library/Application Support/TextWrangler/Color Schemes` (for TextWrangler).
+
+If you're a command-line person, copy/paste:
 
     cp *.bbcolors ~/Library/Application\ Support/BBEdit/Color\ Schemes/
     
